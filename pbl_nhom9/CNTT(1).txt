@@ -1,0 +1,276 @@
+101	
+Giai tich 1
+0
+102
+Dai so tuyen tinh
+0
+103
+Nhap mon nganh
+0
+104
+Ky thuat lap trinh
+0
+105
+TH ky thuat lap trinh
+0
+106
+Triet hoc Mac - Lenin
+0
+107
+Anh van A2.1
+0
+201
+Cau truc may tinh va vi xu ly
+0
+202
+Vat ly 1
+101
+203
+Cau truc du lieu
+104
+204
+Toan roi rac
+104
+205
+Phuong phap tinh
+104
+206
+PBL1: Du an lap trinh tinh toan
+0
+207
+Anh van A2.2
+0
+301
+Tu tuong Ho Chi Minh
+0
+302
+Giai tich 2
+101
+303
+TN Vat ly (Co-Nhiet)
+202
+304
+Lap trinh huong doi tuong
+203
+305
+Co so du lieu
+104
+306
+Phan tich & thiet ke giai thuat
+203
+307
+Nguyen ly he dieu hanh
+201
+308
+PBL 2: Du an co so lap trinh
+0
+401
+Xac suat thong ke
+302
+402
+Mang may tinh
+307
+403
+Phan tich & T.ke huong doi tuong
+304
+404
+Cong nghe phan mem
+0
+405
+Lap trinh .NET
+304
+406
+Lap trinh Java
+304
+407
+PBL 3: Du an Cong nghe phan mem
+0
+408
+Do hoa may tinh
+104
+409
+Ngon ngu hinh thuc
+203
+410
+Giao tiep nguoi may
+0
+501
+Chu nghia Xa hoi khoa hoc
+106
+502
+Chuong trinh dich
+203
+503
+Xu ly tin hieu so
+102
+504
+Toan ung dung Cong nghe thong tin
+104
+505
+Cong nghe Web
+304
+506
+Lap trinh mang
+405
+507
+PBL 4: Du an he dieu hanh va mang may tinh
+0
+508
+Ky thuat truyen so lieu
+104
+509
+Lap trinh tren Linux
+307
+510
+Dien toan dam may
+402
+601
+Lich su Dang Cong san Viet Nam
+0
+602
+Tri tue nhan tao
+403
+603
+Khoa hoc du lieu
+102
+604
+Quan ly du an CNTT
+0
+605
+Vi dieu khien
+104
+606
+PBL 5: Du an Ky thuat may tinh
+402
+607
+Lap trinh he thong nhung
+0
+608
+Lap trinh di dong
+406
+609
+Ky thuat so ung dung
+201
+610
+Mang noron va hoc sau
+0
+611
+Lap trinh Python
+505
+701
+Kinh te chinh tri Mac - Lenin
+106
+702
+Phap luat dai cuong
+0
+703
+Kien truc huong dich vu
+506
+704
+Kiem thu phan mem
+404
+705
+Chuyen de CN CNPM
+404
+706
+Ma nguon mo
+0
+707
+Chuyen de cong nghe
+405
+708
+PBL 6: Du an CN Cong nghe phan mem
+0
+709
+Thuc tap Tot nghiep (CNPM)
+206
+710
+Kien truc doanh nghiep
+402
+711
+Co so he thong thong tin
+402
+712
+Khai pha du lieu
+402
+713
+Thuong mai dien tu
+0
+714
+PBL 6: Du an CN He thong thong tin
+0
+715
+Thuc tap tot nghiep (HTTT)
+206
+716
+An toan Thong tin mang
+402
+717
+Ma hoa va mat ma
+402
+718
+Chuyen de CN ATTT
+402
+719
+Kiem thu xam nhap
+0
+720
+Dieu tra so
+0
+721
+Cong nghe Blockchain
+0
+722
+Phan tich va xu ly ma doc
+402
+723
+PBL 6: Du an CN an toan thong tin
+0
+724
+Quan tri mang
+402
+725
+Chuyen de CN Mang
+402
+726
+He phan tan
+0
+727
+Lap trinh mang nang cao
+402
+728
+Xu ly song song
+0
+729
+PBL 6: Du an CN mang may tinh va truyen thong
+0
+730
+Thuc tap Tot nghiep (Mang)
+606
+731
+Phat trien ung dung IoT
+605
+732
+Thi giac may tinh
+104
+733
+Chuyen de CN KTMT
+607
+734
+He thong thoi gian thuc
+402
+735
+Xu ly tieng noi
+603
+736
+Ky thuat nhan dang
+603
+737
+PBL 6: Du an CN ky thuat may tinh
+0
+738
+Thuc tap Tot nghiep (CNTT)
+606
+801
+Do an Tot nghiep
+0

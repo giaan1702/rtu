@@ -1,0 +1,168 @@
+101
+Giai tich 1
+0
+102
+Nhap mon nganh
+0
+103
+Anh van A2.1
+0
+104
+Triet hoc Mac - Lenin
+0
+105
+Moi truong
+0
+106
+Hoa dai cuong
+0
+201
+Anh van A2.2
+103
+202
+Giai tich 2
+101
+203
+Kinh te chinh tri Mac - Lenin
+104
+204
+Xac suat thong ke
+101
+205
+Phap luat dai cuong
+0
+206
+Vat ly 1
+101
+207
+TN Vat ly (Co-Nhiet)
+206
+208
+Kinh te hoc
+0
+301
+Dai so tuyen tinh
+101
+302
+Chu nghia Xa hoi khoa hoc
+203
+303
+Toan chuyen nganh 1
+208
+304
+Hinh hoa - ve ky thuat
+0
+305
+Thuc tap Nhan thuc
+102
+306
+Vat ly 2
+206
+307
+TN Vat ly (Dien-Tu-Quang)
+306
+308
+Kien truc
+304
+309
+PBL 1: Kien truc cong trinh
+304, 308
+401
+Lap va tham dinh du an dau tu
+208, 308
+402
+Ke toan xay dung co ban
+208
+403
+Lich su Dang Cong san Viet Nam
+203
+404
+Co hoc cong trinh
+206
+405
+Trac dia
+202
+406
+Toan chuyen nganh 2
+301
+407
+Quan tri tai chinh
+208
+408
+PBL 2: Lap va tham dinh du an dau tu
+401, 407
+501
+Ket cau Be tong cot thep
+404
+502
+He thong cong trinh
+404
+503
+Vat lieu xay dung
+404
+504
+Tu tuong Ho Chi Minh
+302, 403
+505
+Dinh muc ky thuat trong xay dung
+502
+506
+Ung dung BIM trong quan ly du an
+102
+507
+Tin hoc trong quan ly du an
+102
+508
+PBL 3: TK bien phap KT thi cong cong trinh
+505, 502
+601
+To chuc Thi cong
+502
+602
+Kiem soat khoi luong (QS1)
+601
+603
+Anh van CN Kinh te xay dung
+201, 103
+604
+Kinh te & quan tri xay dung
+208
+605
+Quan ly he thong cap thoat nuoc
+502
+606
+Quan ly he thong MEP trong cong trinh dan dung & cong nghiep
+502
+607
+Quan ly he thong MEP trong cong trinh giao thong & ha tang ky thuat
+502
+608
+PBL 4: TK bien phap to chuc thi cong cong trinh
+601, 602
+701
+Dinh gia san pham xay dung
+505
+702
+Quan ly cong trinh giao thong
+502
+703
+Kiem soat chi phi (QS2)
+602
+704
+Khoi nghiep & doi moi sang tao
+0
+705
+QLDA cong trinh dan dung & cong nghiep
+604
+706
+QLDA cong trinh giao thong & ha tang ky thuat
+604
+707
+PBL 5: Quan ly chi phi xay dung cong trinh
+701, 703
+801
+Thuc tap Tot nghiep (KTXD)
+707, 309, 408, 508, 608
+802
+Do an tot nghiep
+707, 309, 408, 508, 608
